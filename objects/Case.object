@@ -5,7 +5,7 @@
         <description>Testing for Copado</description>
         <externalId>false</externalId>
         <label>Jira</label>
-        <length>40</length>
+        <length>50</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
